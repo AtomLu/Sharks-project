@@ -1,6 +1,6 @@
 # Sharks-project
 
-![portada](shark.jpeg)
+![shark](https://user-images.githubusercontent.com/93143274/196373901-35b9703c-bf20-4029-a1c0-87af61876435.jpeg))
 
 
 Summary
