@@ -1,4 +1,4 @@
-# Sharks-project
+# Shark Attacks project
 
 ![shark-dangers](https://user-images.githubusercontent.com/93143274/196374281-328bcb10-91f6-403a-8cb1-c0a5cac4ee4a.jpeg)
 
