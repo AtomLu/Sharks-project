@@ -1,6 +1,6 @@
 # Sharks-project
 
-![portada](https://github.com/Ironhack-Data-Madrid-Enero-2022/w3-pandas-project/blob/main/images/portada.jpg)
+![portada](shark.jpeg)
 
 
 Summary
